@@ -12,3 +12,4 @@ Building a real-time renderer using OpenGL. Learning and sharing progress with O
 1. [Max Liani's Blog](https://maxliani.wordpress.com/2021/05/28/offline-to-realtime-the-beginning-of-a-journey/)
 2. [Learn OpenGL](https://learnopengl.com/)
 3. [GLFW Tutorial](https://www.glfw.org/docs/latest/quick_guide.html)
+4. [Anton's OpenGL 4 Tutorials](https://antongerdelan.net/opengl/hellotriangle.html)
