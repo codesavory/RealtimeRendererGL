@@ -1,0 +1,35 @@
+# Ignore Visual Studio solution and project files
+*.sln               # Solution files
+*.vcxproj           # C++ project files
+*.vcxproj.*         # Other project-related files (.filters, .user, etc.)
+*.vcproj            # Older Visual Studio project files
+*.vcproj.*          # Other project-related files (.filters, .user, etc.)
+
+# Ignore Visual Studio user-specific settings
+*.user
+*.filters
+
+# Ignore build directories
+Debug/
+Release/
+x64/
+x86/
+
+# Ignore temporary files and directories from Visual Studio
+ipch/
+*.obj
+*.pch
+*.pdb
+*.idb
+*.opendb
+*.tlog
+*.log
+*.lastbuildstate
+*.ilk
+
+# Ignore Visual Studio Code workspace settings
+.vscode/
+.vs/
+
+# Ignore NuGet packages
+packages/
